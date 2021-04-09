@@ -1,0 +1,10 @@
+{
+  "camelcase": true,
+  "undef": true,
+  "trailing": true,
+  "strict": true,
+  "browser": true,
+  "devel": true,
+  "esversion": 8,
+  "node": true
+}
